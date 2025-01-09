@@ -3,6 +3,11 @@
 - This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
 - The portfolio was a project carried out with the aim of studying and which represents a little of my trajectory so far in the world of software development.
 
+## A Little Spoiler of the project
+
+![image](https://github.com/user-attachments/assets/7fb5ce57-63b3-4c02-ad05-8f7f17c91c70)
+
+
 ## Development server
 
 To start a local development server, run:
